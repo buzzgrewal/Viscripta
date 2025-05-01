@@ -1,6 +1,4 @@
 # Viscripta: Where vision meets vivid narration — intelligent image captions reimagined.
-Sure! Here's a **detailed and professional README.md** file for your project. It's structured for clarity, completeness, and GitHub best practices.
-
 ---
 
 # 🧠 Fine-Tuning BLIP-2 with Flan-T5 on Flickr8k Dataset
